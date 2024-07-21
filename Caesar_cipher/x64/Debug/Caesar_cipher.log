@@ -1,0 +1,3 @@
+﻿  Caesar_cipher.cpp
+C:\Users\Настя\Desktop\Любимый C++\Caesar_cipher\Caesar_cipher\Caesar_cipher.cpp(253,27): warning C4101: ex: неиспользованная локальная переменная
+  Caesar_cipher.vcxproj -> C:\Users\Настя\Desktop\Любимый C++\Caesar_cipher\x64\Debug\Caesar_cipher.exe
